@@ -1,0 +1,12 @@
+div {
+  	width: 200px;
+  	padding-top: 1px;
+  	padding-bottom: 12px;
+  	padding-left: 10px;
+  	padding-right: 10px;
+  	border: solid orange;
+  	border-width: 2px;
+  	text-align: left;
+
+  
+}
